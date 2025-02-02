@@ -104,13 +104,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 **Made with ❤️ by Yash Prajapati**  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/YashPrajapati4181)
 ```
-
----
-
-### To Add Later:
-1. Replace placeholder demo GIF with actual screen recording
-2. Add architecture diagram using [Mermaid.js](https://mermaid-js.github.io/)
-3. Include test coverage badge after adding unit tests
-4. Add deployment instructions for AWS/Heroku
-
-Let me know if you want to refine any section further! 😊
