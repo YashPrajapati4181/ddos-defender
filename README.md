@@ -7,7 +7,7 @@
 
 A cybersecurity tool to detect and mitigate DDoS/DoS attacks in real-time using Flask and Redis. Perfect for securing web applications against malicious traffic spikes.
 
-![Demo](https://via.placeholder.com/800x400.png?text=DDoS+Defender+Demo+GIF) *Replace with actual demo GIF*
+![Setup_demo](https://github.com/user-attachments/assets/f9483777-0420-4ef6-bda3-cd9e9c67aba7)
 
 ## Features ✨
 
