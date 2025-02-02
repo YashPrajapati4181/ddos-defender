@@ -52,7 +52,7 @@ REQUEST_LIMIT=100  # Requests per minute
 flask --app app/routes.py run --port=5000
 ```
 
-### Simulate Attack
+### Simulate Attack locally curl
 ```bash
 # Trigger rate limiting (run in separate terminal)
 for i in {1..150}; do curl http://localhost:5000; done
