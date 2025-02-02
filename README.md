@@ -1,6 +1,3 @@
-Here’s a **customized README.md** tailored to your DDoS Defender project. Copy and paste this into your repository:
-
-```markdown
 # DDoS Defender 🔒
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
