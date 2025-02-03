@@ -48,6 +48,8 @@ REQUEST_LIMIT=100  # Requests per minute
 ## Usage 💻
 
 ```bash
+# Restart Redis using Docker
+docker start redis-ddos 
 # Start the Flask application
 flask --app app/routes.py run --port=5000
 ```
